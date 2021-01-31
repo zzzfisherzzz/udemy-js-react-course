@@ -1,0 +1,22 @@
+{
+  "name": "udemy-js-react-course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zzzfisherzzz/udemy-js-react-course.git"
+  },
+  "author": "Artem <zzzfisherzzz@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zzzfisherzzz/udemy-js-react-course/issues"
+  },
+  "homepage": "https://github.com/zzzfisherzzz/udemy-js-react-course#readme",
+  "devDependencies": {
+    "json-server": "^0.16.3"
+  }
+}
