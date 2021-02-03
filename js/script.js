@@ -504,3 +504,6 @@ window.addEventListener('DOMContentLoaded', function() {
    });
 
 });
+
+
+window.localStorage
